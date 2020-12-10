@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Version 3 of file
-=======
-Version 1 of file
->>>>>>> parent of 305d4b1... Hehehe
 Version 1 of file
 Version 1 of file
 Version 1 of file
